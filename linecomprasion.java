@@ -34,4 +34,5 @@ public class linecomprasion {
         double length2 = calculate_length(line2);
         compareTo(length1, length2);
     }
+        
 }
